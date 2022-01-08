@@ -40,3 +40,6 @@ java -jar {drag and drop Spam_Bot.jar here}
 then just enjoy the program!
   
 ![image](https://user-images.githubusercontent.com/72624799/148631355-390b1a2b-dc5f-4869-bdca-d90c842a1263.png)
+
+
+# YOU NEED JAVA TO RUN THIS!!
