@@ -35,7 +35,7 @@ Hit "Ok"
 
 On the Command Promt window, type the following:
 
-java -jar <drag and drop Spam_Bot.jar here>
+java -jar {drag and drop Spam_Bot.jar here}
   
 then just enjoy the program!
   
