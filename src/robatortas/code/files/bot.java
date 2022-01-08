@@ -10,7 +10,7 @@ import java.awt.event.KeyEvent;
 import java.util.Scanner;
 
 public class bot {
-	public static void main(String[] args) throws AWTException, InterruptedException {
+	private bot() throws AWTException, InterruptedException {
 		System.out.println("Spam Bot" + "\n");
 		
 		Robot robot = new Robot();
@@ -46,5 +46,9 @@ public class bot {
 		} catch (HeadlessException | NumberFormatException e) {
 			e.printStackTrace();
 		}
+	}
+	
+	public static void main(String[] args) throws AWTException, InterruptedException {
+		new bot();
 	}
 }
